@@ -4,7 +4,7 @@ def sort_array_asc(array)
 end
 
 def sort_array_desc(array)
-#.sort
+  array.sort do
 end
 
 def sort_array_char_count(array)

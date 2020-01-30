@@ -12,9 +12,13 @@
 #reverse_array
 
 #kesha_maker
+#.each
 
 #find_a
+#start_with? "a"
 
 #sum_array
+#.inject
 
 #add_s
+#.each_with_index .collect

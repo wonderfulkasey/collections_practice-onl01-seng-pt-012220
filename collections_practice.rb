@@ -1,25 +1,36 @@
 
 def sort_array_asc
+  
+end
 
-#sort_array_desc
+def sort_array_desc
 #.sort
 end
 
-#sort_array_char_count
+def sort_array_char_count
 #.sort
+end
 
-#swap_elements
+def swap_elements
 
-#reverse_array
+end
 
-#kesha_maker
+def reverse_array
+  
+end
+
+def kesha_maker
 #.each
+end
 
-#find_a
+def find_a
 #start_with? "a"
+end
 
-#sum_array
+def sum_array
 #.inject
+end
 
-#add_s
+def add_s
 #.each_with_index .collect
+end 
